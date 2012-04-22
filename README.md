@@ -4,7 +4,7 @@
 strategy to authenticate using Rails 3.1 `has_secure_password`
 by delegating to `User.authenticate(username, password)`.
 
-**omniauth-internal** can be used as a authenticator for
+**omniauth-internal** can be used as an authenticator for
 [OmniAuth MultiPassword](https://github.com/jgraichen/omniauth-multipassword).
 
 ## Installation
